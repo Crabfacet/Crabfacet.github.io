@@ -12,3 +12,18 @@ p{
 .secret{
     color:white
 }
+
+.spi{
+
+width: 100px;
+border-style: double;
+border-color:#C7B6DC;
+border-width: 5px;
+
+}
+
+body{
+
+background-color: #eae3f3;
+
+}
