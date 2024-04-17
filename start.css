@@ -14,8 +14,7 @@ p{
 }
 
 .spi{
-
-width: 100px;
+width:225px;
 border-style: double;
 border-color:#C7B6DC;
 border-width: 5px;
@@ -28,8 +27,3 @@ background-color: #eae3f3;
 
 }
 
-img{
-
-width:200px;
-
-}
