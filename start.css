@@ -19,7 +19,7 @@ img{
 width: 275px;
 border-style: double;
 border-color:#C7B6DC;
-border-width: 15px;
+border-width: 10px;
 border-radius: 5px;
 
 }
@@ -33,5 +33,19 @@ background-color: #eae3f3;
 a{
 
 color:#C7B6DC;
+text-decoration-line: underline;
+text-decoration-style:double;
+
+}
+
+h7{
+
+color:#eae3f3;
+
+}
+
+table{
+
+margin:10px;
 
 }
