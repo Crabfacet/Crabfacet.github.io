@@ -14,7 +14,7 @@ p{
 }
 
 .Spider{
-width: 325px;
+width: 275px;
 border-style: double;
 border-color:#C7B6DC;
 border-width: 5px;
@@ -27,3 +27,14 @@ background-color: #eae3f3;
 
 }
 
+link{
+
+color:#C7B6DC;
+
+}
+
+img{
+
+width:275px;
+
+}
