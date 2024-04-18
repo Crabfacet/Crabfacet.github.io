@@ -1,6 +1,8 @@
 h1{
 
-    color:#C7B6DC
+    color:#C7B6DC;
+    text-decoration-line:underline;
+    text-decoration-style:wavy;
 
 }
 p{
@@ -13,11 +15,12 @@ p{
     color:#eae3f3
 }
 
-.Spider{
+img{
 width: 275px;
 border-style: double;
 border-color:#C7B6DC;
-border-width: 5px;
+border-width: 15px;
+border-radius: 5px;
 
 }
 
@@ -30,11 +33,5 @@ background-color: #eae3f3;
 a{
 
 color:#C7B6DC;
-
-}
-
-img{
-
-width:275px;
 
 }
